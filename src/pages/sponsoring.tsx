@@ -53,7 +53,7 @@ Melden Sie sich bei Interesse oder Fragen gerne bereits jetzt unter [hackathon@d
 
             <h3>Sponsoring-Formular folgt in Kürze</h3>
 
-            {/*<SponsoringContractForm onShowResultPage={setHideMarkdown} />*/}
+            <SponsoringContractForm onShowResultPage={setHideMarkdown} />
         </Layout>
     )
 }

@@ -9,11 +9,12 @@ Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathons i
 
 ## Wo?
 
-Coming soon...
+[Stadtbibliothek Görlitz, Jochmannstraße 2-3, 02826 Görlitz](https://osm.org/go/0MjYKLBAw?node=3249335637)
 
 ## Wann?
 
-Coming soon...
+18.10.2024 bis 20.10.2024, Eröffnung 18.10.2024 13 Uhr
+Weitere Details zum Ablauf folgen.
 
 # Challenge
 

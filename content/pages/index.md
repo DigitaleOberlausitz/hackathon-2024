@@ -3,9 +3,9 @@ slug: ""
 title: Home
 ---
 
-# Hackathon 2024 - Safe the Date
+# Hackathon 2024 - Save the Date
 
-Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathon in Görlitz statt.
+Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathons in Görlitz statt.
 
 ## Wo?
 
@@ -27,5 +27,5 @@ Um auf dem Laufenden zu bleiben, melde dich gerne bei unserem Newsletter an.
 
 ## Kontakt
 
-Haben Sie Fragen? Melden Sie sich gerne unter
+Hast du Fragen? Melde dich gerne unter
 [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu).

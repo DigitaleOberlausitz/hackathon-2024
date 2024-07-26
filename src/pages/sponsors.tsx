@@ -36,7 +36,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "ult",
             label: "ULT AG",
             linkTarget: "https://www.ult.de/",
-            #logoImgPath: "/logo_ult.jpg",
+            logoImgPath: "/logo_ult.jpg",
         },
     ],
 }

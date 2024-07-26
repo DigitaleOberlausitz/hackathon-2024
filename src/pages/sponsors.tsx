@@ -96,10 +96,8 @@ zusammenbringen.
 Unsere Sponsoren unterstützen uns aktiv bei der Verwirklichung dieser Vision.
             `}
         />
-
-        <p>Coming soon...</p>
-
-        {/*<SponsorsOverview sponsors={sponsors} />*/}
+        
+        <SponsorsOverview sponsors={sponsors} />
     </Layout>
 )
 

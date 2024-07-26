@@ -22,9 +22,23 @@ type Sponsor = {
 }
 
 const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
-    gold: [],
+    gold: [
+        {
+            id: "sednasoft",
+            label: "SednaSoft",
+            linkTarget: "https://sedna-soft.de/",
+            logoImgPath: "/logo_sednasoft.svg",
+        },
+    ],
     silver: [],
-    bronze: [],
+    bronze: [
+        {
+            id: "ult",
+            label: "ULT AG",
+            linkTarget: "https://www.ult.de/",
+            #logoImgPath: "/logo_ult.jpg",
+        },
+    ],
 }
 
 const SponsorDetails: React.FC<{ sponsor: Sponsor }> = ({ sponsor }) => (

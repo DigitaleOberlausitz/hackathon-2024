@@ -29,6 +29,20 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             linkTarget: "https://sedna-soft.de/",
             logoImgPath: "/logo_sednasoft.svg",
         },
+        {
+            id: "zeiss",
+            label: "ZEISS Digital Innovation",
+            linkTarget: "https://www.zeiss.de/digital-innovation",
+            logoImgPath: "/logo_zeiss.svg",
+            // adjust styling so that the ZEISS logo looks similar in size compared to other logos
+            logoCss: {
+                maxWidth: "500px",
+                maxHeight: "500px",
+                height: "200px",
+                width: "200px",
+            },
+            greetingText: `Als Fördermitglied des Digitale Oberlausitz e. V. wünschen wir allen IT-begeisterten Teilnehmenden viel Spaß und einen spannenden Austausch beim diesjährigen Hackathon! Viel Erfolg wünscht euer #teamZEISS.`,
+        },
     ],
     silver: [],
     bronze: [

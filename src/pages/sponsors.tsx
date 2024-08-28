@@ -28,6 +28,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             label: "SednaSoft",
             linkTarget: "https://sedna-soft.de/",
             logoImgPath: "/logo_sednasoft.svg",
+            greetingText: "Wir unterstützen dieses Format sehr gern, weil es mithilft, Görlitz als Hochschul- und IT-Standort sichtbarer zu machen. Danke an Digitale Oberlausitz und an alle Teilnehmenden, die sich dieses Jahr wieder mit spannenden Beiträgen einbringen!",
         },
         {
             id: "zeiss",

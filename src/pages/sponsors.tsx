@@ -51,7 +51,14 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "ult",
             label: "ULT AG",
             linkTarget: "https://www.ult.de/",
-            logoImgPath: "",
+            logoImgPath: "/logo_ult.png",
+            logoCss: {
+                maxWidth: "500px",
+                maxHeight: "500px",
+                height: "200px",
+                width: "200px",
+                background: "white",
+            },
         },
     ],
 }

@@ -48,6 +48,17 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     silver: [],
     bronze: [
         {
+            id: "swz",
+            label: "Stadtwerke Zittau GmbH",
+            linkTarget: "https://www.stadtwerke-zittau.de/",
+            logoImgPath: "/logo_swz.png",
+            logoCss: {
+                maxHeight: "500px",
+                height: "200px",
+                background: "white",
+            },
+        },
+        {
             id: "ult",
             label: "ULT AG",
             linkTarget: "https://www.ult.de/",

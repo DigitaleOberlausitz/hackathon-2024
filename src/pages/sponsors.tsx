@@ -54,7 +54,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             logoImgPath: "/logo_swz.png",
             logoCss: {
                 maxHeight: "500px",
-                height: "200px",
+                height: "150px",
                 background: "white",
             },
         },

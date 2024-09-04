@@ -16,4 +16,4 @@ Problemstellungen sind zum Beispiel:
 
 Alle diese Problemgebiete haben gemein, dass sie auf Daten basieren, die erstens der Allgemeinheit zur Verfügung stehen sollten, woraus sich eine Umsetzung Bereitstellung der Lösungen mittels einer Infrastruktur, die Open Data gerecht wird, geradezu fordert. Zweitens sind die Daten dieser Problemfelder alle lokationsbasiert — somit wäre bspw. [Open Street Map](https://www.openstreetmap.org/) eine geeignete Platform.
 
-Lasst uns diesen Hackathon also als Impulsgeber in gleich mehrerlei Hinsicht abhalten: Wir können Nachhaltigkeit und Arbeiten an der Verbesserung unserer lokalen Lebensbedingungen unterstützen.
+Lasst uns diesen Hackathon also als Impulsgeber in gleich mehrerlei Hinsicht abhalten: Wir können Nachhaltigkeit unterstützen und eine Verbesserung unserer lokalen Lebensbedingungen bewirken.

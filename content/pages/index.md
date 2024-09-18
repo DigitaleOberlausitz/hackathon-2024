@@ -13,7 +13,7 @@ Vom **18.10.2024 bis 20.10.2024** findet die dritte Auflage unseres Hackathons i
 
 ## Wann?
 
-18.10.2024 bis 20.10.2024, Eröffnung 18.10.2024 13 Uhr
+18.10.2024 bis 20.10.2024, Einlass ab 13:30 Uhr Eröffnung 18.10.2024 14:30 Uhr
 Weitere Details zum Ablauf folgen.
 
 # Challenge
@@ -23,6 +23,11 @@ Unser diesjähriger Hackathon stellt sich den aktuellen Herausforderungen städt
 In den vergangenen Jahren ist das Thema des Klimawandels und der nachhaltigen Verwendung unserer Ressourcen sowie der Vermeidung von CO2 dauerpräsent in der Presse geworden. Waren es in den letzten Dekaden eher zentrale Organisationen, wie ein Weltklimarat oder große Organisationen wie Greenpeace oder andere Gruppen aus der Wissenschaft, die Veränderung bewirken wollten, so zeigen bspw. Klimastreiks durch Fridays for Future oder auch Gruppierungen wie die Letzte Generation, dass eigenes Engagement notwendig ist, um Veränderung zu bewirken. Auch wenn man sieht, dass auf Ebene des Landes, Europa oder global immer wieder Gelegenheiten verstreichen gelassen wurden, hinreichende Maßnahmen umzusetzen, so ist es unsere Möglichkeit, im Kleinen, lokal Veränderungen zu treiben und einen Teil dazu beizutragen — inspiriert von dem Projekt TRUST, das offen und unter Einbindung der Bürger an verschiedenen Themen zur Erreichung der Klimaneutralität arbeitet.
 
 [Mehr zur Challenge ...](/challenges/)
+
+## Teilnahme
+
+Um uns die Planung für Verpflegung und Co. zu erleichtern, melde dich bitte so zeitig wie möglich an! Die Anmeldung ist bereits geöffnet!
+[Hier findest du mehr Infos zur Teilnahme und die Anmeldung!](/teilnehmen/)
 
 ## Newsletter
 

@@ -6,7 +6,7 @@ title: Teilnehmen
 # Teilnehmen
 
 Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf euch. Damit wir alles sorgfältig planen können und
-genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine unverbindliche aber ernstgemeinte...
+genug Sensoren und Lebensmittel bereitstehen, bitten wir um eine zeitnahe, unverbindliche aber ernstgemeinte...
 
 - [Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2024)
 
@@ -23,6 +23,12 @@ unter [Technische Infos](/techinfo).
 
   Wir haben vor Ort Ansprechpersonen vom Orga-Team sowie pädagogisches Fachpersonal, an die Du dich mit deinen
   Anliegen wenden kannst.
+
+- **... ich kurzfristig absagen muss?**
+
+  In diesem Fall schreibe uns bitte eine E-Mail an hackathon@digitale-oberlausitz.eu und gib bitte deinen Namen,
+  die E-Mail-Adresse mit der du dich registriert hast oder die eveeno-Buchungs-ID, die dir bei der Registrierung
+  zugewiesen wurde, an.
 
 - **... ich nicht programmieren kann?**
 
@@ -81,7 +87,7 @@ unter [Technische Infos](/techinfo).
 
   Der Hackathon findet von Freitag, den 18.10.2024 bis Sonntag, den 20.10.2024 statt.
 
-    - Am Freitag startet der Hackathon 15:00 Uhr (Einlass ab 14:30 Uhr) und geht bis 22 Uhr.
+    - Am Freitag startet der Hackathon 14:30 Uhr (Einlass ab 13:30 Uhr) und geht bis 22 Uhr.
     - Am Samstag sind wir von 8:30 Uhr bis 22 Uhr vor Ort.
     - Am Sonntag sind wir von 8:30 Uhr bis 16 Uhr vor Ort.
 

@@ -27,7 +27,7 @@ In den vergangenen Jahren ist das Thema des Klimawandels und der nachhaltigen Ve
 ## Teilnahme
 
 Um uns die Planung für Verpflegung und Co. zu erleichtern, melde dich bitte so zeitig wie möglich an! Die Anmeldung ist bereits geöffnet!
-[Hier findest du mehr Infos zur Teilnahme und die Anmeldung!](/teilnehmen/)
+[Hier findest du mehr Infos zur Teilnahme und die Anmeldung!](/participate/)
 
 ## Newsletter
 

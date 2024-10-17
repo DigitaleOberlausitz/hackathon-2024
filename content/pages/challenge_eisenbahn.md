@@ -3,7 +3,7 @@ slug: challenge_eisenbahn
 title: "Challenge: Wartungsmaßnahmen im Gleisnetz der Eisenbahn"
 ---
 
-Bei dieser Challenge geht es um die Verbesserung von Planung von Instandsetzungsmaßnahmen im ÖPNV, insbesondere im Gleis- und Schienennetz. Eine Steigerung der Effektivität soll schließlich zu einer besseren Kosteneffizienz führen.
+Bei dieser Challenge geht es um die Verbesserung von Planung von Instandsetzungsmaßnahmen im ÖPNV, insbesondere im Gleis- und Schienennetz. Eine Steigerung der Effektivität soll schließlich zu einer besseren Kosteneffizienz führen. Dabei geht es auch um die Entwicklung neuer Lösungsansätze bzw. Erforschung neuer Zusammenhänge verschiedener Datenarten. 
 
 # Ausgangssituation
 

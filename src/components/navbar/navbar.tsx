@@ -25,7 +25,10 @@ export const Navbar: FC = () => (
                         <Link to="/challenge-hitzeprobleme">Hitzeprobleme</Link>
                     </li>
                     <li>
-                        <Link to="/challenge-gruenflaechen">Grünflächen</Link>
+                        <Link to="/challenge-gruenflaechen">Urban Gardening</Link>
+                    </li>
+					<li>
+                        <Link to="/challenge-eisenbahn">Eisenbahn</Link>
                     </li>
                 </ul>
             </li>

@@ -3,9 +3,11 @@ slug: challenge_eisenbahn
 title: "Challenge: Wartungsmaßnahmen im Gleisnetz der Eisenbahn"
 ---
 
-Bei dieser Challenge geht es um die Verbesserung von Planung von Instandsetzungsmaßnahmen im ÖPNV, insbesondere im Gleis- und Schienennetz. Eine Steigerung der Effektivität soll schließlich zu einer besseren Kosteneffizienz führen. Dabei geht es auch um die Entwicklung neuer Lösungsansätze bzw. Erforschung neuer Zusammenhänge verschiedener Datenarten. 
+# Challenge: Wartungsmaßnahmen im Gleisnetz der Eisenbahn
 
-# Ausgangssituation
+Bei dieser Challenge geht es um die Verbesserung von Planung von Instandsetzungsmaßnahmen im ÖPNV, insbesondere im Gleis- und Schienennetz. Eine Steigerung der Effektivität soll schließlich zu einer besseren Kosteneffizienz führen. Dabei geht es auch um die Entwicklung neuer Lösungsansätze bzw. Erforschung neuer Zusammenhänge verschiedener Datenarten.
+
+## Ausgangssituation
 
 Anonymisierte Daten einer "echten" europäischen Eisenbahnstrecke werden als Input beim Hackathon bereitgestellt:
 * Darin gibt es 2 Zustandskennzahlen mit örtlichem Bezug auf der Strecke
@@ -15,10 +17,8 @@ Anonymisierte Daten einer "echten" europäischen Eisenbahnstrecke werden als Inp
   * Ebenfalls als Datenhistorie mit örtlichem Bezug
   * Anonymisierte Klassifizierung von Maßnahmen (es gibt verschiedene Maßnahmentypen)
 
-# Aufgabenstellung
+## Aufgabenstellung
 
 Kernfragestellung ist: Wie wirken sich die verschiedenen Maßnahmentypen auf den Zustand einer Eisenbahnstrecke aus?
 
-Ergebnis könnte eine feste Wirkung, z.B. Maßnahme X verbessert den Zustand immer um 1,5. Wahrscheinlicher ist jedoch die Wirkung in Abhängigkeit vom Ausgangszustand (eine Art Funktion sozusagen)
-
-Die Wirkungsweise ist also das, was zu ermitteln ist.
+Ergebnis könnte eine feste Wirkung, z.B. Maßnahme X verbessert den Zustand immer um 1,5. Wahrscheinlicher ist jedoch die Wirkung in Abhängigkeit vom Ausgangszustand (eine Art Funktion sozusagen). Es ist also die Wirkungsweise der Maßnahmen, die durch geeignete Datenanalyseverfahren zu ermitteln ist.

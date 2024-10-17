@@ -3,13 +3,15 @@ slug: challenge-hitzeprobleme
 title: "Challenge: Identifizierung von Hitzeproblembereichen im Kontext der städtischen Wärmeplanung"
 ---
 
+# Challenge: Identifizierung von Hitzeproblembereichen im Kontext der städtischen Wärmeplanung
+
 Städte werden mit Blick auf den Klimawandel immer heißer. In Folge gibt gewisse Hotspots in den Städten, die sich überhitzen und die das Leben der Einwohner immer schwieriger machen. Mit verschiedenen Maßnahmen, wie bsp. zusätzliche Begrünung, Beschattung oder Entsiegelung jener Flächen, soll Lebensqualität in urbanen Räumen gezielt verbessert und die negativen Auswirkungen des Klimawandels gemindert werden.
 
-# Ausgangssituation
+## Ausgangssituation
 
-Es werdem Daten für eine Bestandsanalyse für Hitze-Hotspots mittels Photogrammatrie benötigt.Genau genommen handelt es sich um Multispektralbilder eines Ortes. Hierzu sind in der internen Datenquelle "Geodatenquellen.md" verschiedene Datenquellen aufgelistet, die benötigte Input-Daten liefern.
+Es werdem Daten für eine Bestandsanalyse für Hitze-Hotspots mittels Photogrammatrie benötigt. Genau genommen handelt es sich um Multispektralbilder eines Ortes. Hierzu sind in der internen Datenquelle "Geodatenquellen.md" verschiedene Datenquellen aufgelistet, die benötigte Input-Daten liefern.
 
-# Aufgabenstellung
+## Aufgabenstellung
 
 Identifizierung von Hitzeproblembereichen im Kontext der städtischen Wärmeplanung: 
 

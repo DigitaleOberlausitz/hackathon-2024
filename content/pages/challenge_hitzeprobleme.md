@@ -23,11 +23,11 @@ Die erfassten Daten (aus 1.) könnten z. B. auch mittels Open Street Map und Tag
 
 ## Challenge-Ergebnisse
 
-Die Teilnehmenden dieser Challenge haben eine anspruchsvolle Aufgabe bewältigt, wobei die wesentliche Grundlage geeignete Daten für die Darstellung von Hitze-Hotspots zu identifzieren bzw. aufzubereiten der Kern der Challenge darstellte.
+Der Kern dieser Challenge war es, geeignete Daten für die Darstellung von Hitze-Hotspots zu identifizieren bzw. aufzubereiten.
 
-Der Challenge-Owner, Dr. Marek Jaskólski ([Europastadt GörlitzZgorzelec GmbH](https://www.goerlitz.de/Unternehmer-_Investmentservice.html)), stellte einige wissenschaftliche Quellen bereit, die mehr Details zu dem Themengebiet lieferten und weitere Hinweise zu möglichen Datenquellen. Da es auch um Open-Data geht, wurden freie und öffentlich zugängliche Daten der drei Satelliten "Sentinel-2", "Sentinel-3" und "Landshut" als geeignet identifiziert und verwendet.
+Der Challenge-Owner, Dr. Marek Jaskólski ([Europastadt GörlitzZgorzelec GmbH](https://www.goerlitz.de/Unternehmer-_Investmentservice.html)), stellte einige wissenschaftliche Quellen bereit, die mehr Details zu dem Themengebiet und weitere Hinweise zu möglichen Datenquellen lieferten. Da es auch um Open-Data geht, wurden freie und öffentlich zugängliche Daten der drei Satelliten "Sentinel-2", "Sentinel-3" und "Landsat" als geeignet identifiziert und verwendet.
 
-Das Team teilte sich in 3 verschiedene Aufgabenbereiche ein, an denen während des Wochendes gearbeitet wurde:
+Das Team teilte sich in 3 verschiedene Aufgabenbereiche ein, an denen während des Wochenendes gearbeitet wurde:
 
 1. Zugriff auf das API der jeweiligen Satellitendatenschnittstellen.
 2. Auswertung der Datenqualität und -Auflösung. Es standen Temperaturdten mit Einer Auflösung von 1 km bis minimal 100 m zur Verfügung. Für die Betrachtung des Problems, Orte als Hitze-Hotspots in einer Stadt zu identifzieren, war jedoch klar, dass diese Auflösung viel zu grob war.
